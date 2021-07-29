@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyGradeApp</string>
+    <string name="current_grade">Current Grade: N/A</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Delete_text">Are You Sure You Want to Delete this Class?</string>
+</resources>
